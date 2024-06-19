@@ -1,0 +1,14 @@
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\CarroSell.exe.config
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\CarroSell.exe
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\CarroSell.pdb
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\CarroSell.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Administrador.resources
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.frm_venda.resources
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\CarroSell.Properties.Resources.resources
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\CarroSell.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\CarroSell.exe
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\CarroSell.pdb

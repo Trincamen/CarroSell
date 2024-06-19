@@ -1,0 +1,325 @@
+C:\Users\Renan Arruda\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+C:\Users\Renan Arruda\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+C:\Users\Renan Arruda\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Renan Arruda\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+C:\Users\Renan Arruda\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_alunos.resources
+C:\Users\Renan Arruda\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+C:\Users\Renan Arruda\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+C:\Users\Renan Arruda\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+C:\Users\Renan Arruda\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Renan Arruda\Documents\ETEC\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+C:\Users\Renan Arruda\Documents\ETEC\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+C:\Users\Renan Arruda\Documents\ETEC\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Renan Arruda\Documents\ETEC\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+C:\Users\Renan Arruda\Documents\ETEC\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Renan Arruda\Documents\ETEC\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_alunos.resources
+C:\Users\Renan Arruda\Documents\ETEC\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+C:\Users\Renan Arruda\Documents\ETEC\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+C:\Users\Renan Arruda\Documents\ETEC\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\MySql.Data.dll
+C:\Users\Renan Arruda\Documents\ETEC\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+C:\Users\Renan Arruda\Documents\ETEC\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Login.resources
+C:\Users\Renan Arruda\Documents\ETEC\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Loading.resources
+C:\Users\Renan Arruda\Documents\ETEC\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+C:\Users\Renan Arruda\Documents\ETEC\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+X:\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+X:\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+X:\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+X:\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+X:\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+X:\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+X:\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+X:\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_alunos.resources
+X:\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Login.resources
+X:\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+X:\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Loading.resources
+X:\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+X:\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Login.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Login.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Pesquisa_Veiculo.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Login.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Pesquisa_Veiculo.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Pesquisa_de_cliente.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Login.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Pesquisa_de_cliente.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Pesquisa_Veiculo.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Pesquisa_de_Veiculo2.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Login.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Pesquisa_de_cliente.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Pesquisa_de_Veiculo2.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Pesquisa_Veiculo.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2_Backup_20_30\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2_Backup_20_30\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2_Backup_20_30\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2_Backup_20_30\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2_Backup_20_30\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2_Backup_20_30\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2_Backup_20_30\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Login.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2_Backup_20_30\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2_Backup_20_30\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2_Backup_20_30\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2_Backup_20_30\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2_Backup_20_30\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_2_Backup_20_30\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Login.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Login.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+C:\Users\Vtrinca-inf151\Downloads\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+C:\Users\Vtrinca-inf151\Downloads\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vtrinca-inf151\Downloads\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vtrinca-inf151\Downloads\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+C:\Users\Vtrinca-inf151\Downloads\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+C:\Users\Vtrinca-inf151\Downloads\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+C:\Users\Vtrinca-inf151\Downloads\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Login.resources
+C:\Users\Vtrinca-inf151\Downloads\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+C:\Users\Vtrinca-inf151\Downloads\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+C:\Users\Vtrinca-inf151\Downloads\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+C:\Users\Vtrinca-inf151\Downloads\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vtrinca-inf151\Downloads\ProjetoCRUD_DS_IZI (2)\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Administrador.resources
+D:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+D:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+D:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+D:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+D:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+D:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+D:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Administrador.resources
+D:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+D:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+D:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+D:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+D:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+F:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+F:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+F:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+F:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+F:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+F:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+F:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+F:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Administrador.resources
+F:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+F:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+F:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+F:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+F:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+D:\ProjetoCRUD_DS_MDS\ProjetoCRUD_DS_UHU\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Administrador.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+C:\Users\Vinicius\Documents\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Administrador.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+C:\Users\Vinicius\Documents\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vinicius\Documents\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Documents\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vinicius\Documents\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Documents\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Documents\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+C:\Users\Vinicius\Documents\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Administrador.resources
+C:\Users\Vinicius\Documents\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+C:\Users\Vinicius\Documents\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+C:\Users\Vinicius\Documents\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+C:\Users\Vinicius\Documents\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+C:\Users\Vinicius\Documents\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+C:\Users\Roberto\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+C:\Users\Roberto\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+C:\Users\Roberto\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+C:\Users\RAOliveira-inf151\Downloads\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+C:\Users\RAOliveira-inf151\Downloads\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+C:\Users\RAOliveira-inf151\Downloads\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+C:\Users\RAOliveira-inf151\Downloads\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+C:\Users\RAOliveira-inf151\Downloads\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+C:\Users\RAOliveira-inf151\Downloads\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+C:\Users\RAOliveira-inf151\Downloads\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+C:\Users\RAOliveira-inf151\Downloads\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Administrador.resources
+C:\Users\RAOliveira-inf151\Downloads\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+C:\Users\RAOliveira-inf151\Downloads\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+C:\Users\RAOliveira-inf151\Downloads\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+C:\Users\RAOliveira-inf151\Downloads\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.frm_venda.resources
+C:\Users\RAOliveira-inf151\Downloads\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+C:\Users\RAOliveira-inf151\Downloads\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Administrador.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.frm_venda.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Administrador.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.frm_venda.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+\\fs.ad.etecpa.com.br\RAOliveira-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+C:\Users\Vtrinca-inf151\Downloads\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+C:\Users\Vtrinca-inf151\Downloads\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vtrinca-inf151\Downloads\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vtrinca-inf151\Downloads\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vtrinca-inf151\Downloads\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vtrinca-inf151\Downloads\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+C:\Users\Vtrinca-inf151\Downloads\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+C:\Users\Vtrinca-inf151\Downloads\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Administrador.resources
+C:\Users\Vtrinca-inf151\Downloads\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+C:\Users\Vtrinca-inf151\Downloads\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+C:\Users\Vtrinca-inf151\Downloads\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+C:\Users\Vtrinca-inf151\Downloads\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.frm_venda.resources
+C:\Users\Vtrinca-inf151\Downloads\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+C:\Users\Vtrinca-inf151\Downloads\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Administrador.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.frm_venda.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+\\fs.ad.etecpa.com.br\Vtrinca-inf151\Desktop\CarroSell\CarroSell\CarroSell\CarroSell\CarroSell\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_IZI\ProjetoCRUD_DS_2\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe.config
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.exe
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\ProjetoCRUD_DS.pdb
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.AboutBox1.resources
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Administrador.resources
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Cadastro_de_veiculo.resources
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_Clientes.resources
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Frm_principal.resources
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.frm_venda.resources
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.Properties.Resources.resources
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\obj\Debug\ProjetoCRUD_DS.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Downloads\CarroSell\CarroSell\ProjetoCRUD_DS\ProjetoCRUD_DS\bin\Debug\CarroSell.exe.config
